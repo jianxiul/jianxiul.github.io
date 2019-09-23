@@ -16,14 +16,14 @@ menu:
     icon: ""
 
   - text: Brief Bio
-    link: /skills-and-offers
+    link: /brief-bio
     icon: ""
 
   - text: Publications
-    link: /contact
+    link: /publications
     icon: ""
 
   - text: CV
-    link: /resume
+    link: /cv
     icon: ""
     
