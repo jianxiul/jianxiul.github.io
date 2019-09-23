@@ -4,10 +4,11 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: page
+      layout: Default
 
 title: Jianxiu Li
 subtitle: Research Assistant
+description: USC Viterbi School of Engineering
 
 # Side Menu Links
 menu:
