@@ -6,8 +6,8 @@ defaults:
     values:
       layout: default
 
-title: Christian Ezeani
-subtitle: Full-Stack Developer
+title: Jianxiu Li
+subtitle: Research Assistant
 
 # Side Menu Links
 menu:
@@ -27,7 +27,7 @@ menu:
     link: /resume
     icon: ""
 
-# Socialmedia Icons
+ Socialmedia Icons
 social_icons:
   - name: linkedin
     link: https://www.linkedin.com/christianezeani
