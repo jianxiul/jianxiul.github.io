@@ -26,10 +26,6 @@ menu:
   - text: CV
     link: /resume
     icon: ""
-    
-   - text: Personal
-    link: /
-    icon: ""
 
 # Socialmedia Icons
 social_icons:
