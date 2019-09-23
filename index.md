@@ -2,4 +2,4 @@
 layout: default
 ---
 
-# MY PROFILE
+# Welcome to my personal website. 
