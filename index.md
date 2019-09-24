@@ -24,7 +24,7 @@ I am a first year Ph.D student in Prof. Mitra's group. I am interested in struct
 *****
 
 ## Contact Information
-Email&emsp;&emsp;&emsp;jianxiul[at]usc[dot]edu
+Email&emsp;&emsp;&emsp;&emsp;&emsp;jianxiul[at]usc[dot]edu
 
 Work Address&emsp;504A EEB, 3740 McClintock Avenue, Los Angeles, CA 90089 &nbsp;
 
