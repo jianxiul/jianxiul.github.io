@@ -13,7 +13,7 @@ Ming Hsieh Department of Electrical & Computer Engineering
 University of Southern California &nbsp;
 
 
-Advisor&emsp;Professor Urbashi Mitra &nbsp;
+`Advisor'&emsp;Professor Urbashi Mitra &nbsp;
 
 *****
 
@@ -36,4 +36,4 @@ Work Address&emsp;504A EEB, 3740 McClintock Avenue, Los Angeles, CA 90089 &nbsp;
 
 * (Jun. 2019)&emsp;&emsp;Obtained the Bachelor Degree of Engineering from Xidian University;
 
-* (Jun. 2019)&emsp;&emsp;Awarded ``Outstanding Graduates" from Xidian University.
+* (Jun. 2019)&emsp;&emsp;Awarded "Outstanding Graduates" from Xidian University.
