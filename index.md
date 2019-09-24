@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<font face="new times roman">
 # Li, Jianxiu (李鉴修)
 
 
@@ -16,3 +16,5 @@ University of Southern California
 Advisor: Professor Urbashi Mitra
 
 
+
+</font>
