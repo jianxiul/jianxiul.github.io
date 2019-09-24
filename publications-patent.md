@@ -7,9 +7,9 @@
 
 ## Publications
 
-* **Jianxiu Li** and Wenchi Cheng, ``Simulations Transmitting and Air Computing for High-Speed Point-to-Point Wireless Communication", submitted to 2020 IEEE International Conference on Communications;
+* **Jianxiu Li** and Wenchi Cheng, "Simulations Transmitting and Air Computing for High-Speed Point-to-Point Wireless Communication", submitted to 2020 IEEE International Conference on Communications;
 
-* **Jianxiu Li** and Wenchi Cheng, ``Stacked Denoising Autoencoder Enhanced Polar Codes Over Fading Channels", IEEE Wireless Communications Letter, 2019, under review.
+* **Jianxiu Li** and Wenchi Cheng, "Stacked Denoising Autoencoder Enhanced Polar Codes Over Fading Channels", IEEE Wireless Communications Letter, 2019, under review.
 
 ***
 
