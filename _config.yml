@@ -7,6 +7,7 @@ defaults:
       layout: Default
 
 title: Jianxiu Li
+subtitle: IEEE student member
 
 # Side Menu Links
 menu:
@@ -22,7 +23,7 @@ menu:
     link: /publications-patent
     icon: ""
 
-  - text: Awards
+  - text: Honors
     link: /award
     icon: ""
     

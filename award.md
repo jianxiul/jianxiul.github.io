@@ -1,7 +1,7 @@
 ---
 ---
 
-# Honors & Awards
+# Honors
 
 ***
 
