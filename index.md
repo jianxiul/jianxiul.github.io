@@ -26,9 +26,9 @@ I am interested in structured signal processing, orbital angular momentum (OAM) 
 *****
 
 ## Contact Information
-**Email**&emsp;&emsp;&emsp;&emsp;&emsp;jianxiul [at] usc [dot] edu
+**Email**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;jianxiul [at] usc [dot] edu
 
-**Work** Address&emsp;504A EEB, 3740 McClintock Avenue, Los Angeles, CA 90089 &nbsp;
+**Work Address**&emsp;&emsp;504A EEB, 3740 McClintock Avenue, Los Angeles, CA 90089 &nbsp;
 
 *****
 ## Recent News
