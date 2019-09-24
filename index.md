@@ -19,9 +19,9 @@ University of Southern California &nbsp;
 
 ## Brief Bio
 
-I am a first year Ph.D student in Prof. Mitra's group. 
+I am a first year Ph.D student in **Prof. Mitra's group**. 
 
-I am interested in structured signal processing with applications to communications, orbital angular momentum (OAM) based wireless communications and polar codes.&nbsp;
+I am interested in **structured signal processing with applications to communications**, **orbital angular momentum (OAM) based wireless communications** and **polar codes**.&nbsp;
 
 *****
 
