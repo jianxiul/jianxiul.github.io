@@ -13,7 +13,7 @@ Ming Hsieh Department of Electrical & Computer Engineering
 University of Southern California &nbsp;
 
 
-**Advisor**&emsp;Professor Urbashi Mitra &nbsp;
+**Advisor**&emsp;Professor **Urbashi Mitra** &nbsp;
 
 *****
 
