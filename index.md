@@ -5,7 +5,7 @@ layout: default
 # Li, Jianxiu (李鉴修)
 
 
-Research Assistant &nbsp;
+**Research Assistant** &nbsp;
 
 
 Ming Hsieh Department of Electrical & Computer Engineering
@@ -26,14 +26,14 @@ I am interested in structured signal processing, orbital angular momentum (OAM) 
 *****
 
 ## Contact Information
-Email&emsp;&emsp;&emsp;&emsp;&emsp;jianxiul [at] usc [dot] edu
+**Email**&emsp;&emsp;&emsp;&emsp;&emsp;jianxiul [at] usc [dot] edu
 
-Work Address&emsp;504A EEB, 3740 McClintock Avenue, Los Angeles, CA 90089 &nbsp;
+**Work** Address&emsp;504A EEB, 3740 McClintock Avenue, Los Angeles, CA 90089 &nbsp;
 
 *****
 ## Recent News
-* (Aug. 2019)&emsp;&emsp;Joined Prof. Urbashi Mitra's group at USC as a research assistant;
+* **(Aug. 2019)**&emsp;&emsp;Joined Prof. Urbashi Mitra's group at USC as a research assistant;
 
-* (Jun. 2019)&emsp;&emsp;Obtained the Bachelor Degree of Engineering from Xidian University;
+* **(Jun. 2019)**&emsp;&emsp;Obtained the Bachelor Degree of Engineering from Xidian University;
 
-* (Jun. 2019)&emsp;&emsp;Awarded "Outstanding Graduates" from Xidian University.
+* **(Jun. 2019)**&emsp;&emsp;Awarded "Outstanding Graduates" from Xidian University.

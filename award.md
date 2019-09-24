@@ -31,12 +31,12 @@
 
 ## Scholarship
 
-* Scholarship of Gratitude for Chinese Modern Scientists, Kenyon Pte Ltd, (Top 0.1%), Nov. 2018;
+* Scholarship of Gratitude for Chinese Modern Scientists, Kenyon Pte Ltd, **(Top 0.1%)**, Nov. 2018;
 
-* First prize scholarship, Xidian University, (Top 3%), Oct. 2018;
+* First prize scholarship, Xidian University, **(Top 3%)**, Oct. 2018;
 
-* Supreme Scholarship, Xidian University, (Top 1%), Oct. 2017;
+* Supreme Scholarship, Xidian University, **(Top 1%)**, Oct. 2017;
 
-* National Scholarship, Ministry of Education, (Top 1%), Oct. 2016;
+* National Scholarship, Ministry of Education, **(Top 1%)**, Oct. 2016;
 
-* Supreme Scholarship, Xidian University, (Top 1%), Mar. 2016.
+* Supreme Scholarship, Xidian University, **(Top 1%)**, Mar. 2016.
