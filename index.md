@@ -29,8 +29,8 @@ Email&emsp;&emsp;&emsp;&emsp;&emsp;jianxiul[at]usc[dot]edu
 Work Address&emsp;504A EEB, 3740 McClintock Avenue, Los Angeles, CA 90089 &nbsp;
 
 *****
-## Recent News
-*(Aug. 2019) Joined Prof. Urbashi Mitra's group at USC as a research assistant
+## <font color=blue>Recent News</font>
+* (Aug. 2019) Joined Prof. Urbashi Mitra's group at USC as a research assistant
 
 
 
