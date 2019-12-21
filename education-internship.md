@@ -7,7 +7,7 @@
 
 ## Education
 
-* **Probationary Ph.D candidate** in Electrical Engineering, **University of Southern California**, U.S.A., (Aug. 2019 - present)
+* **Probationary Ph.D candidate** in Electrical Engineering, **University of Southern California**, U.S.A., (Aug. 2019 - present)&emsp;&emsp;**[GPA: 4.0/4.0, 2019/20 SEM1]**
 
 * **B.S.** in Telecommunications Engineering, **Xidian University**, China, (Aug. 2015 - Jun. 2019)&emsp;&emsp;**[GPA: 3.9/4.0]**
 &nbsp;
