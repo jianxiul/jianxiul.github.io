@@ -34,10 +34,10 @@ I am interested in **structured signal processing with applications to communica
 ## Academic Services
 * Reviewer, IEEE Access;
 
-* Reviewer, IEEE Systems Journal;
+%* Reviewer, IEEE Systems Journal;
 
 * Reviewer, IEEE Wireless Communications Letter;
 
 * Reviewer, IEEE Communications Letter;
 
-* Reviewer, IEEE INFOCOM 2020 IWECN Workshop.
+* Reviewer, IEEE GLOBECOM 2020, INFOCOM 2020 IWECN Workshop.
