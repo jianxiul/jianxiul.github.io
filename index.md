@@ -34,8 +34,6 @@ I am interested in **structured signal processing with applications to communica
 ## Academic Services
 * Reviewer, IEEE Access;
 
-%* Reviewer, IEEE Systems Journal;
-
 * Reviewer, IEEE Wireless Communications Letter;
 
 * Reviewer, IEEE Communications Letter;
